@@ -1,0 +1,301 @@
+{
+  "provinceList": [{
+      "province": "北京市",
+      "totalInvest": "26803.00",
+      "amounts": "+10282.00",
+      "project": "古董收藏",
+      "investCycle": "24",
+      "investPerson": "5839",
+      "annualRate": "14%",
+      "remarks": "倾向于明代皇家古董",
+      "area": "4"
+    },
+    {
+      "province": "上海市",
+      "totalInvest": "23809.00",
+      "amounts": "+10892.00",
+      "project": "基金",
+      "investCycle": "36",
+      "investPerson": "4567",
+      "annualRate": "5%",
+      "remarks": "投资集中为保守型基金",
+      "area": "1"
+    },
+    {
+      "province": "天津市",
+      "totalInvest": "18739.00",
+      "amounts": "+9827.00",
+      "project": "外汇",
+      "investCycle": "20",
+      "investPerson": "9839",
+      "annualRate": "5%",
+      "remarks": "倾向于英镑",
+      "area": "4"
+    },
+    {
+      "province": "重庆市",
+      "totalInvest": "12839.00",
+      "amounts": "+7827.00",
+      "project": "股票",
+      "investCycle": "12",
+      "investPerson": "3839",
+      "annualRate": "12%",
+      "remarks": "投资集中为电商型股票",
+      "area": "6"
+    },
+    {
+      "province": "广东省",
+      "totalInvest": "8839.00",
+      "amounts": "+827.00",
+      "project": "债券",
+      "investCycle": "30",
+      "investPerson": "8839",
+      "annualRate": "20%",
+      "remarks": "投资集中为金融债券",
+      "area": "2"
+    },
+    {
+      "province": "河南省",
+      "totalInvest": "8839.00",
+      "amounts": "+3200.00",
+      "project": "期货",
+      "investCycle": "24",
+      "investPerson": "7839",
+      "annualRate": "8%",
+      "remarks": "多投资于保守型期货",
+      "area": "6"
+    },
+    {
+      "province": "山西省",
+      "totalInvest": "4329.00",
+      "amounts": "+4227.00",
+      "project": "外汇",
+      "investCycle": "12",
+      "investPerson": "4239",
+      "annualRate": "10%",
+      "remarks": "多投资于美元",
+      "area": "4"
+    },
+    {
+      "province": "海南省",
+      "totalInvest": "8229.00",
+      "amounts": "+3630.00",
+      "project": "信托",
+      "investCycle": "6",
+      "investPerson": "7339",
+      "annualRate": "12%",
+      "remarks": "喜欢稳定性信托",
+      "area": "2"
+    },
+    {
+      "province": "西藏自治区",
+      "totalInvest": "8301.00",
+      "amounts": "+3330.00",
+      "project": "贵金属",
+      "investCycle": "36",
+      "investPerson": "3480",
+      "annualRate": "15%",
+      "remarks": "喜欢投资黄金等贵金属",
+      "area": "6"
+    },
+    {
+      "province": "湖南省",
+      "totalInvest": "7834.00",
+      "amounts": "+3431.00",
+      "project": "股票",
+      "investCycle": "36",
+      "investPerson": "3480",
+      "annualRate": "8%",
+      "remarks": "投资集中为科技型股票",
+      "area": "3"
+    },
+    {
+      "province": "安徽省",
+      "totalInvest": "7844.00",
+      "amounts": "+3291.00",
+      "project": "房产",
+      "investCycle": "12",
+      "investPerson": "3488",
+      "annualRate": "8%",
+      "remarks": "多投资于品牌开发商",
+      "area": "1"
+    },
+    {
+      "province": "福建省",
+      "totalInvest": "7814.00",
+      "amounts": "+3291.00",
+      "project": "储蓄",
+      "investCycle": "24",
+      "investPerson": "6482",
+      "annualRate": "15%",
+      "remarks": "倾向于中国银行",
+      "area": "1"
+    },
+    {
+      "province": "江苏省",
+      "totalInvest": "7832.00",
+      "amounts": "+3831.00",
+      "project": "保险",
+      "investCycle": "30",
+      "investPerson": "7923",
+      "annualRate": "12%",
+      "remarks": "倾向于投资信誉较高的保险",
+      "area": "1"
+    },
+    {
+      "province": "浙江省",
+      "totalInvest": "7830.00",
+      "amounts": "+3531.00",
+      "project": "信托",
+      "investCycle": "30",
+      "investPerson": "6880",
+      "annualRate": "12%",
+      "remarks": "喜欢投资科技型信托",
+      "area": "1"
+    },
+    {
+      "province": "吉林省",
+      "totalInvest": "7830.00",
+      "amounts": "+3729.00",
+      "project": "债券",
+      "investCycle": "18",
+      "investPerson": "3498",
+      "annualRate": "5%",
+      "remarks": "多投资于美国债券",
+      "area": "7"
+    },
+    {
+      "province": "四川省",
+      "totalInvest": "7634.00",
+      "amounts": "+2491.00",
+      "project": "贵金属",
+      "investCycle": "24",
+      "investPerson": "2454",
+      "annualRate": "10%",
+      "remarks": "倾向于投资白银",
+      "area": "6"
+    },
+    {
+      "province": "香港特别行政区",
+      "totalInvest": "7390.00",
+      "amounts": "+3881.00",
+      "project": "外汇",
+      "investCycle": "24",
+      "investPerson": "6480",
+      "annualRate": "8%",
+      "remarks": "倾向域美元储蓄",
+      "area": "8"
+    },
+    {
+      "province": "宁夏回族自治区",
+      "totalInvest": "7834.00",
+      "amounts": "+3731.00",
+      "project": "保险",
+      "investCycle": "12",
+      "investPerson": "7180",
+      "annualRate": "8%",
+      "remarks": "喜欢健康类保险",
+      "area": "8"
+    },
+    {
+      "province": "江西省",
+      "totalInvest": "6834.00",
+      "amounts": "+2831.00",
+      "project": "信托",
+      "investCycle": "36",
+      "investPerson": "3480",
+      "annualRate": "8%",
+      "remarks": "喜欢品牌信托项目",
+      "area": "3"
+    },
+    {
+      "province": "湖北省",
+      "totalInvest": "6794.00",
+      "amounts": "+1391.00",
+      "project": "基金",
+      "investCycle": "24",
+      "investPerson": "5480",
+      "annualRate": "10%",
+      "remarks": "投资集中为科技型基金",
+      "area": "3"
+    },
+    {
+      "province": "台湾省",
+      "totalInvest": "6739.00",
+      "amounts": "+3021.00",
+      "project": "古董收藏",
+      "investCycle": "18",
+      "investPerson": "3880",
+      "annualRate": "10%",
+      "remarks": "对汉代画颇为赏识",
+      "area": "8"
+    },
+    {
+      "province": "澳门特别行政区",
+      "totalInvest": "6490.00",
+      "amounts": "+3281.00",
+      "project": "基金",
+      "investCycle": "30",
+      "investPerson": "9090",
+      "annualRate": "12%",
+      "remarks": "倾向于科技类基金",
+      "area": "8"
+    },
+    {
+      "province": "广西壮族自治区",
+      "totalInvest": "5904.00",
+      "amounts": "+2011.00",
+      "project": "储蓄",
+      "investCycle": "60",
+      "investPerson": "6712",
+      "annualRate": "5%",
+      "remarks": "多投资于银行存款,保守投资",
+      "area": "2"
+    },
+    {
+      "province": "山东省",
+      "totalInvest": "5684.00",
+      "amounts": "+3491.00",
+      "project": "贵金属",
+      "investCycle": "18",
+      "investPerson": "4780",
+      "annualRate": "5%",
+      "remarks": "倾向于投资白银",
+      "area": "1"
+    },
+    {
+      "province": "甘肃省",
+      "totalInvest": "5694.00",
+      "amounts": "+2391.00",
+      "project": "古董收藏",
+      "investCycle": "60",
+      "investPerson": "9839",
+      "annualRate": "10%",
+      "remarks": "多投资于清代字画",
+      "area": "5"
+    },
+    {
+      "province": "陕西省",
+      "totalInvest": "5639.00",
+      "amounts": "+2891.00",
+      "project": "股票",
+      "investCycle": "6",
+      "investPerson": "5839",
+      "annualRate": "18%",
+      "remarks": "倾向于能源类股票",
+      "area": "5"
+    },
+    {
+      "province": "青海省",
+      "totalInvest": "4528.00",
+      "amounts": "+1891.00",
+      "project": "房产",
+      "investCycle": "60",
+      "investPerson": "6839",
+      "annualRate": "20%",
+      "remarks": "倾向于国内一线城市",
+      "area": "5"
+    }
+  ]
+
+}

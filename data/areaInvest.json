@@ -1,0 +1,197 @@
+{
+    "areaList": [
+      {
+        "area": "4",
+        "areaEast": [
+          {
+            "province": "北京市",
+            "totalInvest": "26803.00",
+            "amounts": "+10282.00",
+            "project": "古董收藏",
+            "investCycle": "24",
+            "investPerson": "5839",
+            "annualRate" : "14%",
+            "remarks": "倾向于明代皇家古董"
+          },
+          {
+            "province": "天津市",
+            "totalInvest": "18739.00",
+            "amounts": "+9827.00",
+            "project": "外汇",
+            "investCycle": "20",
+            "investPerson": "9839",
+            "annualRate" : "5%",
+            "remarks": "倾向于英镑"
+          }
+        ]
+      },
+      {
+        "area": "1",
+        "areaEast": [
+          {
+            "province": "上海市",
+            "totalInvest": "23809.00",
+            "amounts": "+10892.00",
+            "project": "基金",
+            "investCycle": "36",
+            "investPerson": "4567",
+            "annualRate" : "5%",
+            "remarks": "投资集中为保守型基金"
+          },
+          {
+            "province": "安徽省",
+            "totalInvest": "7844.00",
+            "amounts": "+3291.00",
+            "project": "房产",
+            "investCycle": "12",
+            "investPerson": "3488",
+            "annualRate" : "8%",
+            "remarks": "多投资于品牌开发商"
+          }
+        ]
+      },
+      {
+        "area": "6",
+        "areaEast": [
+          {
+            "province": "重庆市",
+            "totalInvest": "12839.00",
+            "amounts": "+7827.00",
+            "project": "股票",
+            "investCycle": "12",
+            "investPerson": "3839",
+            "annualRate" : "12%",
+            "remarks": "投资集中为电商型股票"
+          },
+          {
+            "province": "四川省",
+            "totalInvest": "7634.00",
+            "amounts": "+2491.00",
+            "project": "贵金属",
+            "investCycle": "24",
+            "investPerson": "2454",
+            "annualRate" : "10%",
+            "remarks": "倾向于投资白银"
+          }
+        ]
+      },
+      {
+        "area": "2",
+        "areaEast": [{
+            "province": "北京市",
+            "totalInvest": "26803.00",
+            "amounts": "+10282.00",
+            "project": "古董收藏",
+            "investCycle": "24",
+            "investPerson": "5839",
+            "annualRate": "14%",
+            "remarks": "倾向于明代皇家古董"
+          },
+          {
+            "province": "天津市",
+            "totalInvest": "18739.00",
+            "amounts": "+9827.00",
+            "project": "外汇",
+            "investCycle": "20",
+            "investPerson": "9839",
+            "annualRate": "5%",
+            "remarks": "倾向于英镑"
+          }
+        ]
+      }, {
+        "area": "3",
+        "areaEast": [{
+            "province": "上海市",
+            "totalInvest": "23809.00",
+            "amounts": "+10892.00",
+            "project": "基金",
+            "investCycle": "36",
+            "investPerson": "4567",
+            "annualRate": "5%",
+            "remarks": "投资集中为保守型基金"
+          },
+          {
+            "province": "安徽省",
+            "totalInvest": "7844.00",
+            "amounts": "+3291.00",
+            "project": "房产",
+            "investCycle": "12",
+            "investPerson": "3488",
+            "annualRate": "8%",
+            "remarks": "多投资于品牌开发商"
+          }
+        ]
+      }, {
+        "area": "5",
+        "areaEast": [{
+            "province": "重庆市",
+            "totalInvest": "12839.00",
+            "amounts": "+7827.00",
+            "project": "股票",
+            "investCycle": "12",
+            "investPerson": "3839",
+            "annualRate": "12%",
+            "remarks": "投资集中为电商型股票"
+          },
+          {
+            "province": "四川省",
+            "totalInvest": "7634.00",
+            "amounts": "+2491.00",
+            "project": "贵金属",
+            "investCycle": "24",
+            "investPerson": "2454",
+            "annualRate": "10%",
+            "remarks": "倾向于投资白银"
+          }
+        ]
+      },
+      {
+        "area": "7",
+        "areaEast": [{
+            "province": "北京市",
+            "totalInvest": "26803.00",
+            "amounts": "+10282.00",
+            "project": "古董收藏",
+            "investCycle": "24",
+            "investPerson": "5839",
+            "annualRate": "14%",
+            "remarks": "倾向于明代皇家古董"
+          },
+          {
+            "province": "天津市",
+            "totalInvest": "18739.00",
+            "amounts": "+9827.00",
+            "project": "外汇",
+            "investCycle": "20",
+            "investPerson": "9839",
+            "annualRate": "5%",
+            "remarks": "倾向于英镑"
+          }
+        ]
+      }, {
+        "area": "0",
+        "areaEast": [{
+            "province": "上海市",
+            "totalInvest": "23809.00",
+            "amounts": "+10892.00",
+            "project": "基金",
+            "investCycle": "36",
+            "investPerson": "4567",
+            "annualRate": "5%",
+            "remarks": "投资集中为保守型基金"
+          },
+          {
+            "province": "安徽省",
+            "totalInvest": "7844.00",
+            "amounts": "+3291.00",
+            "project": "房产",
+            "investCycle": "12",
+            "investPerson": "3488",
+            "annualRate": "8%",
+            "remarks": "多投资于品牌开发商"
+          }
+        ]
+      }
+    ]
+  
+}
